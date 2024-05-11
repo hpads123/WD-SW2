@@ -13,7 +13,6 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
 </div>
 <p>This project is intended to complete the university requirement to submit SW2 in IT0043L</p>
 <br />
