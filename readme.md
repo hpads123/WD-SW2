@@ -9,18 +9,18 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">SW2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
   Short Description. (Optional)
 </div>
-
+<p>This project is intended to complete the university requirement to submit SW2 in IT0043L</p>
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=hpads123/WD-SW2)
 
 ---
 
